@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class JoystiñkForMovement : JoystickHandler
+public class JoystickForMovement : JoystickHandler
 {
     public Vector3 ReturnVectorDirection()
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unity\\CoinDash\\CoinDashBackEnd\\CoinDashBackEnd.csproj": {}
+    "C:\\Unity\\CoinDashFinished\\CoinDashBackEnd\\CoinDashBackEnd.csproj": {}
   },
   "projects": {
-    "D:\\Unity\\CoinDash\\CoinDashBackEnd\\CoinDashBackEnd.csproj": {
+    "C:\\Unity\\CoinDashFinished\\CoinDashBackEnd\\CoinDashBackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unity\\CoinDash\\CoinDashBackEnd\\CoinDashBackEnd.csproj",
+        "projectUniqueName": "C:\\Unity\\CoinDashFinished\\CoinDashBackEnd\\CoinDashBackEnd.csproj",
         "projectName": "CoinDashBackEnd",
-        "projectPath": "D:\\Unity\\CoinDash\\CoinDashBackEnd\\CoinDashBackEnd.csproj",
+        "projectPath": "C:\\Unity\\CoinDashFinished\\CoinDashBackEnd\\CoinDashBackEnd.csproj",
         "packagesPath": "C:\\Users\\orisl\\.nuget\\packages\\",
-        "outputPath": "D:\\Unity\\CoinDash\\CoinDashBackEnd\\obj\\",
+        "outputPath": "C:\\Unity\\CoinDashFinished\\CoinDashBackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

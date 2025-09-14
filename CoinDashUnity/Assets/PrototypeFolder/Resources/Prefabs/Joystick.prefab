@@ -59,13 +59,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 8269463425724767543}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54d40f3a37839cb4d92897194389f689, type: 3}
+  m_Script: {fileID: 11500000, guid: ae6ddce54f131254d8f0c1d642b076bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _areaName: joystickArea
   _backgroundName: joystickBackground
   _joystickName: joystick
   _inActiveJoystickColor: {r: 1, g: 1, b: 1, a: 1}
-  _activeJoystickColor: {r: 0.33273634, g: 1, b: 0.3160377, a: 1}
+  _activeJoystickColor: {r: 0.4335827, g: 0.9339623, b: 0.374466, a: 1}
   InputVector: {x: 0, y: 0}
   JoystickSide: 0

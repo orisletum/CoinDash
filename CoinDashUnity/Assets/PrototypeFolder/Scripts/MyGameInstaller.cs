@@ -14,7 +14,7 @@ namespace CoinDash
         private string _coin = "Prefabs/Coin";
         private string _slime = "Prefabs/Slime";
         private string _gameView = "Prefabs/GameView";
-        private string _joystiñk = "Prefabs/Joystick";
+        private string _joystick = "Prefabs/Joystick";
         public override void InstallBindings()
         {
 
@@ -39,7 +39,7 @@ namespace CoinDash
                       .FromComponentInNewPrefabResource(_coin)
                       .UnderTransformGroup("CoinPool"));
 
-            Container.Bind<JoystiñkForMovement>().FromComponentInNewPrefabResource(_joystiñk).AsSingle().NonLazy();
+            Container.Bind<JoystickForMovement>().FromComponentInNewPrefabResource(_joystick).AsSingle().NonLazy();
             Container.Bind<GameView>().FromComponentInNewPrefabResource(_gameView).AsSingle().NonLazy();
 
             Container.Bind<SpawnSlimeService>().AsSingle().NonLazy();

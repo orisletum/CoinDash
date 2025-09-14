@@ -28,11 +28,11 @@ namespace CoinDash.Connection
         private UpdateSlimeService          _updateSlimeService;
         private SpawnSlimeService           _spawnSlimeService;
         private UpdateCoinService           _updateCoinService;
-        private JoystiñkForMovement         _joystiñkForMovement;
+        private JoystickForMovement         _joystiñkForMovement;
 
         public bool                         IsConnected = false;
         [Inject]
-        public void Construct(JoystiñkForMovement joystiñkForMovement, UpdateSlimeService updateSlimeService, SpawnSlimeService spawnSlimeService, UpdateCoinService updateCoinService)
+        public void Construct(JoystickForMovement joystiñkForMovement, UpdateSlimeService updateSlimeService, SpawnSlimeService spawnSlimeService, UpdateCoinService updateCoinService)
         {
             _joystiñkForMovement = joystiñkForMovement;
             _updateSlimeService = updateSlimeService;
