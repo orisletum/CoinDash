@@ -4,7 +4,8 @@
 Unity:
 
 Сцена - PrototypeFolder/Scenes/Game
-Главная директория -  PrototypeFolder
+
+Главная директория -  PrototypeFolder.
 В ней находится всё, что связано с данным проектом.
 
 Использовал Zenject, UniRx, логику реализовал сервисами.
@@ -38,8 +39,11 @@ MyGameInstaller - DI, пулы для слаймов, Header'ов и монет,
 Сделал быстро, опыта большого не имею с серверной частью. 
 
 Для Docker использовал эти команды:
+
 docker build -t coindashbackend-server .
+
 dotnet publish -c Release
+
 docker compose up --build
 
 Если будут проблемы, то можно использовать
