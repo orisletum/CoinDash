@@ -1,0 +1,7 @@
+D:\Unity\CoinDash\CoinDashBackEnd\bin\Release\net8.0\publish\CoinDashBackEnd.exe
+D:\Unity\CoinDash\CoinDashBackEnd\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Unity\CoinDash\CoinDashBackEnd\bin\Release\net8.0\publish\appsettings.json
+D:\Unity\CoinDash\CoinDashBackEnd\bin\Release\net8.0\publish\CoinDashBackEnd.dll
+D:\Unity\CoinDash\CoinDashBackEnd\bin\Release\net8.0\publish\CoinDashBackEnd.deps.json
+D:\Unity\CoinDash\CoinDashBackEnd\bin\Release\net8.0\publish\CoinDashBackEnd.runtimeconfig.json
+D:\Unity\CoinDash\CoinDashBackEnd\bin\Release\net8.0\publish\CoinDashBackEnd.pdb

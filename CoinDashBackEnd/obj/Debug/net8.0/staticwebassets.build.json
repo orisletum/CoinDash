@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "azlNZqGsyJC7NAJTRbr2cECsyPF7Aj49sPC0oVnj5MU=",
+  "Source": "CoinDashBackEnd",
+  "BasePath": "_content/CoinDashBackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
