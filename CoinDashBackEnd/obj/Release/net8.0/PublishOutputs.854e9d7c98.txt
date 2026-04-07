@@ -1,0 +1,7 @@
+D:\WORK\2_Test_Projects\CoinDashFinished\CoinDashBackEnd\bin\Release\net8.0\publish\CoinDashBackEnd.exe
+D:\WORK\2_Test_Projects\CoinDashFinished\CoinDashBackEnd\bin\Release\net8.0\publish\appsettings.Development.json
+D:\WORK\2_Test_Projects\CoinDashFinished\CoinDashBackEnd\bin\Release\net8.0\publish\appsettings.json
+D:\WORK\2_Test_Projects\CoinDashFinished\CoinDashBackEnd\bin\Release\net8.0\publish\CoinDashBackEnd.dll
+D:\WORK\2_Test_Projects\CoinDashFinished\CoinDashBackEnd\bin\Release\net8.0\publish\CoinDashBackEnd.deps.json
+D:\WORK\2_Test_Projects\CoinDashFinished\CoinDashBackEnd\bin\Release\net8.0\publish\CoinDashBackEnd.runtimeconfig.json
+D:\WORK\2_Test_Projects\CoinDashFinished\CoinDashBackEnd\bin\Release\net8.0\publish\CoinDashBackEnd.pdb

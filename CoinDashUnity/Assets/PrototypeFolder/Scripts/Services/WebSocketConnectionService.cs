@@ -62,7 +62,7 @@ namespace CoinDash.Connection
             
             Observable.EveryUpdate()
                 .Where(_ => IsConnected)
-                .ThrottleFirst(TimeSpan.FromSeconds(0.1f)) 
+                //.ThrottleFirst(TimeSpan.FromSeconds(5f)) 
                 .Subscribe(_ =>
                 {
                     if (isMobile)
@@ -84,10 +84,10 @@ namespace CoinDash.Connection
 
         public void UpdateMovement()
         {
-            if (Input.GetKey(KeyCode.W)) SendDirection("up");
-            if (Input.GetKey(KeyCode.S)) SendDirection("down");
-            if (Input.GetKey(KeyCode.A)) SendDirection("left");
-            if (Input.GetKey(KeyCode.D)) SendDirection("right");
+            if (Input.GetKeyDown(KeyCode.W)) SendDirection("up");
+            if (Input.GetKeyDown(KeyCode.S)) SendDirection("down");
+            if (Input.GetKeyDown(KeyCode.A)) SendDirection("left");
+            if (Input.GetKeyDown(KeyCode.D)) SendDirection("right");
 
             // Пинг каждые 5 сек
             if (Time.time - _lastPingTime > 5f)
