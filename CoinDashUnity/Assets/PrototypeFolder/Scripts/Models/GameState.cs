@@ -6,6 +6,7 @@ namespace CoinDash.Connection
     public class GameState
     {
         public PlayerState[] Players;
+        public BossState Boss;
         public CoinState[] Coins;
         public bool IsFinal;
     }

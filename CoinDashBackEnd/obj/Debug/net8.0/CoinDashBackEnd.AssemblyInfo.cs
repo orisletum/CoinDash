@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoinDashBackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f57b53b8a47b7199d3cecff7de2e012c9f0b617")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b23c238f132d94b833df5a6ec8af36c5df0554f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoinDashBackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoinDashBackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
